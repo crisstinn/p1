@@ -1,7 +1,0 @@
-git clone: clono un repositorio a mi espacio de trabajo
-git status: enseña el estado de los archivos que estan en el repositorio donde ejecuto el codigo
-git add: añado archivos al área de preparación
-git commit: indica los cambios que se han realizado en el historial
-git push: sube los cambios realizados al repositorio remoto
-git checkout: cambia de una rama a otra y recupera una versión específica de un archivo
-git pull: para poder tener en el codespaces los archivos que han sido subidos directamente a la interfaz web puesto que no se sincronizan automáticamente
